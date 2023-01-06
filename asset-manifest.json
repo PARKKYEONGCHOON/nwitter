@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/PARKKYEONGCHOON/nwitter/static/js/main.cb1db9ab.js",
+    "main.css": "/PARKKYEONGCHOON/nwitter/static/css/main.ff37f1a6.css",
+    "main.js": "/PARKKYEONGCHOON/nwitter/static/js/main.6b0e23e4.js",
     "index.html": "/PARKKYEONGCHOON/nwitter/index.html",
-    "main.cb1db9ab.js.map": "/PARKKYEONGCHOON/nwitter/static/js/main.cb1db9ab.js.map"
+    "main.ff37f1a6.css.map": "/PARKKYEONGCHOON/nwitter/static/css/main.ff37f1a6.css.map",
+    "main.6b0e23e4.js.map": "/PARKKYEONGCHOON/nwitter/static/js/main.6b0e23e4.js.map"
   },
   "entrypoints": [
-    "static/js/main.cb1db9ab.js"
+    "static/css/main.ff37f1a6.css",
+    "static/js/main.6b0e23e4.js"
   ]
 }
